@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jmariog
+- 👋 Hi, I’m @bicho_byte
 - 👀 I’m interested in hack
 - 🌱 I’m currently learning to hack
 - 💞️ I’m looking to collaborate on hack 
